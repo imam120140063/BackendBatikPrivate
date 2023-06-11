@@ -1,8 +1,0 @@
-GCP_ID="percobaandulu"
-db_host="34.101.210.115"
-db_user="root"
-db_password="Cobalagi"
-db_database="mydatabase"
-db_port="3306"
-datastore_key="percobaandulu-a94a55211eb6.json"
-cloudstorage_key="percobaandulu-a94a55211eb6.json" 
